@@ -1,0 +1,18 @@
+x = "Python "
+y = "is "
+z = "awesome "
+m = "It's "
+a = "Md. "
+b = "Mazharul "
+p = "Islam "
+c = "code"
+d = "made "
+i = "ing."
+t = "by "
+n = "man. "
+I = "ing "
+Z = "awesome."
+print(x+c+I+y+Z)
+print(a+b+p)
+print(a+b+p+y+z+n)
+print(m+d+t+d+x+c+i)
